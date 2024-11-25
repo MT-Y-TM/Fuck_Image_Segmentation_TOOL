@@ -12,5 +12,5 @@
 1. Pycharm
 2. 通义千问
 3. Upx
-4. [配色表（给程序界面寻找配色方案的地方）](peisebiao.com)
+4. [配色表（给程序界面寻找配色方案的地方）](https://www.peisebiao.com)
 5. Python 3.12.0
